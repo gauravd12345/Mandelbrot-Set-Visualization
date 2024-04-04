@@ -11,9 +11,7 @@ height = width
 
 # Use these values to alternate the center and scale repsectively
 center = -0.1 - 0.875j
-extent = 0.1 + 0.1j
-
-scale = max((extent / width).real, (extent / width).imag)
+scale = 0.1
 
 
 def mandelbrot_set(scale):
