@@ -1,6 +1,6 @@
 # Mandelbrot-Set-Visualization
 This program uses Matplotlib &amp; Numpy to generate a graph of the Mandelbrot Set. 
-The following variables can be tweaked in order to zoom in/our certain parts of the graph: 
+The following variables can be tweaked in order to zoom in/out certain parts of the graph: 
   * Center of graph,  
   * Scale/zoom,  
   * Pixel density
