@@ -11,7 +11,7 @@ height = width
 
 # Use these values to alternate the center and scale repsectively
 center = -0.1 - 0.875j
-scale = 0.1
+scale = 0.1 / width
 
 
 def mandelbrot_set(scale):
